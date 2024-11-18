@@ -56,11 +56,11 @@ I am a passionate developer proficient in multiple programming languages, excell
 
 <div align="center">
 
-[![sweet-request](https://github-readme-stats.vercel.app/api/pin/?username=dawichcode&repo=sweet-request&theme=dark)](https://github.com/wcodewiz/sweet-request)
-[![gc_storage](https://github-readme-stats.vercel.app/api/pin/?username=dawichcode&repo=gc_storage&theme=dark)](https://github.com/wcodewiz/gc_storage)
-[![gc-form](https://github-readme-stats.vercel.app/api/pin/?username=dawichcode&repo=gc-form&theme=dark)](https://github.com/wcodewiz/gc-form)
-[![gc-theme](https://github-readme-stats.vercel.app/api/pin/?username=dawichcode&repo=gc-theme&theme=dark)](https://github.com/wcodewiz/gc-theme)
-[![sweet-tailwind-ui](https://github-readme-stats.vercel.app/api/pin/?username=dawichcode&repo=sweet-tailwind-ui&theme=dark)](https://github.com/wcodewiz/sweet-tailwind-ui)
+[![sweet-request](https://github-readme-stats.vercel.app/api/pin/?username=wcodewiz&repo=sweet-request&theme=dark)](https://github.com/wcodewiz/sweet-request)
+[![gc_storage](https://github-readme-stats.vercel.app/api/pin/?username=wcodewiz&repo=gc_storage&theme=dark)](https://github.com/wcodewiz/gc_storage)
+[![gc-form](https://github-readme-stats.vercel.app/api/pin/?username=wcodewiz&repo=gc-form&theme=dark)](https://github.com/wcodewiz/gc-form)
+[![gc-theme](https://github-readme-stats.vercel.app/api/pin/?username=wcodewiz&repo=gc-theme&theme=dark)](https://github.com/wcodewiz/gc-theme)
+[![sweet-tailwind-ui](https://github-readme-stats.vercel.app/api/pin/?username=wcodewiz&repo=sweet-tailwind-ui&theme=dark)](https://github.com/wcodewiz/sweet-tailwind-ui)
 
 </div>
 
