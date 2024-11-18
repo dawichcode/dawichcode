@@ -76,7 +76,7 @@ I am a passionate developer proficient in multiple programming languages, excell
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawichcode&theme=dark)](https://github.com/wcodewiz)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawichcode&theme=dark)](https://github.com/dawichcode)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dawichcode&theme=react-dark&hide_border=true" width="100%"/>
 
