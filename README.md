@@ -56,52 +56,51 @@ I am a passionate developer proficient in multiple programming languages, excell
 
 <div align="center">
 
-[![sweet-request](https://github-readme-stats.vercel.app/api/pin/?username=wcodewiz&repo=sweet-request&theme=dark)](https://github.com/wcodewiz/sweet-request)
-[![gc_storage](https://github-readme-stats.vercel.app/api/pin/?username=wcodewiz&repo=gc_storage&theme=dark)](https://github.com/wcodewiz/gc_storage)
-[![gc-form](https://github-readme-stats.vercel.app/api/pin/?username=wcodewiz&repo=gc-form&theme=dark)](https://github.com/wcodewiz/gc-form)
-[![gc-theme](https://github-readme-stats.vercel.app/api/pin/?username=wcodewiz&repo=gc-theme&theme=dark)](https://github.com/wcodewiz/gc-theme)
-[![sweet-tailwind-ui](https://github-readme-stats.vercel.app/api/pin/?username=wcodewiz&repo=sweet-tailwind-ui&theme=dark)](https://github.com/wcodewiz/sweet-tailwind-ui)
+[![sweet-request](https://github-readme-stats.vercel.app/api/pin/?username=dawichcode&repo=sweet-request&theme=dark)](https://github.com/wcodewiz/sweet-request)
+[![gc_storage](https://github-readme-stats.vercel.app/api/pin/?username=dawichcode&repo=gc_storage&theme=dark)](https://github.com/wcodewiz/gc_storage)
+[![gc-form](https://github-readme-stats.vercel.app/api/pin/?username=dawichcode&repo=gc-form&theme=dark)](https://github.com/wcodewiz/gc-form)
+[![gc-theme](https://github-readme-stats.vercel.app/api/pin/?username=dawichcode&repo=gc-theme&theme=dark)](https://github.com/wcodewiz/gc-theme)
+[![sweet-tailwind-ui](https://github-readme-stats.vercel.app/api/pin/?username=dawichcode&repo=sweet-tailwind-ui&theme=dark)](https://github.com/wcodewiz/sweet-tailwind-ui)
 
 </div>
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wcodewiz&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wcodewiz&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawichcode&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawichcode&layout=compact&theme=dark)
 
 </div>
 
-// ... previous header content ...
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wcodewiz&theme=dark)](https://github.com/wcodewiz)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawichcode&theme=dark)](https://github.com/wcodewiz)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wcodewiz&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dawichcode&theme=react-dark&hide_border=true" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wcodewiz&theme=monokai"  width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dawichcode&theme=monokai"  width="100%"/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wcodewiz&theme=monokai" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wcodewiz&theme=monokai" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dawichcode&theme=monokai" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dawichcode&theme=monokai" alt=""/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wcodewiz&theme=monokai" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wcodewiz&theme=monokai" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawichcode&theme=monokai" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dawichcode&theme=monokai" alt=""/>
 </p>
 
 <!-- Snake animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wcodewiz/wcodewiz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wcodewiz/wcodewiz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wcodewiz/wcodewiz/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dawichcode/dawichcode/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dawichcode/dawichcode/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wcodewiz/dawichcode/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=wcodewiz&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=dawichcode&style=flat-square&color=blue" alt=""/>
 
 </div>
 
