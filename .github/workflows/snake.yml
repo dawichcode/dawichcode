@@ -14,13 +14,12 @@ jobs:
         uses: actions/checkout@v3
 
       # Generate the snake SVGs
-      - name: Generate snake SVGs
+      - name: Generate snake SVG
         uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: wcodewiz
           svg_out_path: dist/github-contribution-grid-snake.svg
-          svg_out_path_dark: dist/github-contribution-grid-snake-dark.svg
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
@@ -29,4 +28,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
