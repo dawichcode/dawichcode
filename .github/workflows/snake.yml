@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *" # every 12 hours
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,7 +18,7 @@ jobs:
 
       # Generate the snake SVGs
       - name: Generate snake SVG
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: wcodewiz
@@ -23,7 +26,7 @@ jobs:
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
