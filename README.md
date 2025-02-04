@@ -74,6 +74,13 @@ I am a passionate developer proficient in multiple programming languages, excell
 
 ## 📊 GitHub Stats
 
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dawichcode/dawichcode/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dawichcode/dawichcode/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dawichcode/dawichcode/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawichcode&theme=dark)](https://github.com/dawichcode)
@@ -92,12 +99,7 @@ I am a passionate developer proficient in multiple programming languages, excell
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dawichcode&theme=monokai" alt=""/>
 </p>
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dawichcode/dawichcode/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dawichcode/dawichcode/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dawichcode/dawichcode/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
