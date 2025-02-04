@@ -99,7 +99,6 @@ I am a passionate developer proficient in multiple programming languages, excell
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dawichcode/dawichcode/output/github-contribution-grid-snake.svg">
 </picture>
 
-# snk
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
